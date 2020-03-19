@@ -1,0 +1,77 @@
+
+.top-container{
+    background-color:#cccccc;
+    position: relative;
+    margin-top:0 ;
+}
+
+nav{ 
+    background-color: rebeccapurple;
+    border-radius:35px;
+    position: absolute;
+    top:200px;
+    height:60px;
+
+}
+.image{
+    width: 35%;
+    height: 300px;
+    margin-left: 750px;
+    margin-top: 200px;
+
+}
+.brand{
+   
+    color:white;
+    font-weight: bold;
+    font-family: cursive;
+    position: absolute;
+    top: 45px;
+    left: 150px;
+    font-size:35px;
+
+    
+}
+.navbar-nav li{
+padding:15px;
+font-size: 15px;
+}
+.f1{
+    background-color: tomato;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 40px 0px 40px 210px;
+    padding: 60px;
+    color: aliceblue;
+    border-radius: 35px;
+
+}
+.f2{
+    background-color: gold;
+    display: inline-block; 
+    width: 250px;
+    height: 250px;
+    margin: 40px 80px;
+    padding: 60px;
+    color: aliceblue;
+    border-radius: 35px;
+}
+    
+
+.f3{
+    background-color:green;
+    width: 250px;
+    height: 250px;
+    display:inline-block;
+    margin:40px 140px 40px 0px;
+    padding: 60px;
+    color: aliceblue;
+    border-radius: 35px;
+}
+h6{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+}
